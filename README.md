@@ -1,2 +1,2 @@
-# batch-rename
+# Batch Rename Project
 Windows Programming
